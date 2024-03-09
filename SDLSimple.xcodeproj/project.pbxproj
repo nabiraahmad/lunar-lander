@@ -13,7 +13,7 @@
 		1C64CD522B9CAB2100208810 /* butterfly.png in Copy Files */ = {isa = PBXBuildFile; fileRef = 1C64CD422B9BBA1800208810 /* butterfly.png */; };
 		1C64CD532B9CAB2100208810 /* font1.png in Copy Files */ = {isa = PBXBuildFile; fileRef = 1CE4E5032B93798200CE56D2 /* font1.png */; };
 		1C64CD572B9CAFF700208810 /* fire.png in Copy Files */ = {isa = PBXBuildFile; fileRef = 1C64CD562B9CAFD200208810 /* fire.png */; };
-		1C64CD592B9CB33000208810 /* pinkbutterfly.gif in Copy Files */ = {isa = PBXBuildFile; fileRef = 1C64CD582B9CB31400208810 /* pinkbutterfly.gif */; };
+		1C64CD5B2B9CE6FB00208810 /* pinkbutterfly.gif in Copy Files */ = {isa = PBXBuildFile; fileRef = 1C64CD5A2B9CE6D500208810 /* pinkbutterfly.gif */; };
 		1CE619442B6756C8001A58DB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1CE619432B6756C8001A58DB /* main.cpp */; };
 		1CE6194F2B675822001A58DB /* ShaderProgram.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1CE6194B2B675822001A58DB /* ShaderProgram.cpp */; };
 		1CE619522B675A51001A58DB /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CE619512B675A51001A58DB /* OpenGL.framework */; };
@@ -31,7 +31,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 6;
 			files = (
-				1C64CD592B9CB33000208810 /* pinkbutterfly.gif in Copy Files */,
+				1C64CD5B2B9CE6FB00208810 /* pinkbutterfly.gif in Copy Files */,
 				1C64CD572B9CAFF700208810 /* fire.png in Copy Files */,
 				1C64CD502B9CAB2100208810 /* flower.png in Copy Files */,
 				1C64CD512B9CAB2100208810 /* ground.png in Copy Files */,
@@ -51,7 +51,7 @@
 		1C64CD462B9BBDA800208810 /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ground.png; path = SDLSimple/assets/ground.png; sourceTree = SOURCE_ROOT; };
 		1C64CD4D2B9CA4DE00208810 /* flower.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower.png; path = SDLSimple/assets/flower.png; sourceTree = SOURCE_ROOT; };
 		1C64CD562B9CAFD200208810 /* fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fire.png; sourceTree = "<group>"; };
-		1C64CD582B9CB31400208810 /* pinkbutterfly.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pinkbutterfly.gif; sourceTree = SOURCE_ROOT; };
+		1C64CD5A2B9CE6D500208810 /* pinkbutterfly.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pinkbutterfly.gif; sourceTree = "<group>"; };
 		1CE4E5032B93798200CE56D2 /* font1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = font1.png; sourceTree = "<group>"; };
 		1CE619402B6756C8001A58DB /* SDLSimple */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SDLSimple; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE619432B6756C8001A58DB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -88,7 +88,7 @@
 			children = (
 				1C64CD4D2B9CA4DE00208810 /* flower.png */,
 				1C64CD462B9BBDA800208810 /* ground.png */,
-				1C64CD582B9CB31400208810 /* pinkbutterfly.gif */,
+				1C64CD5A2B9CE6D500208810 /* pinkbutterfly.gif */,
 				1C64CD562B9CAFD200208810 /* fire.png */,
 				1C64CD422B9BBA1800208810 /* butterfly.png */,
 				1CE4E5032B93798200CE56D2 /* font1.png */,
